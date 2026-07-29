@@ -1,68 +1,92 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Anuraag Patil - Portfolio Website
 
-## Available Scripts
+A modern, responsive portfolio website showcasing my projects in Education Technology and AI.
 
-In the project directory, you can run:
+## 🚀 Live Demo
 
-### `npm start`
+[https://patilanuraag.github.io/](https://patilanuraag.github.io/)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 📁 Featured Projects
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+### 1. Career Counselling Platform (Naviksha)
+- **Live:** [https://www.naviksha.co.in/](https://www.naviksha.co.in/)
+- **GitHub:** [acadspace-pathfinder](https://github.com/vikrantshome/acadspace-pathfinder)
+- A comprehensive career counselling platform that helps students make informed career decisions.
 
-### `npm test`
+### 2. EduPath India
+- **Live:** [edu-path-india.vercel.app](https://edu-path-india.vercel.app/)
+- **GitHub:** [EduPathIndia](https://github.com/PatilAnuraag/EduPathIndia)
+- College and education stream recommendation system helping students find their perfect educational path.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### 3. Campus Compass
+- **Live:** [campus-compass-mu.vercel.app](https://campus-compass-mu.vercel.app/)
+- **GitHub:** [Applichoice](https://github.com/vikrantshome/Applichoice)
+- Smart college recommendation system with personalized suggestions based on student preferences.
 
-### `npm run build`
+### 4. Scaler Future Fit
+- **Live:** [scaler-future-fit-roan.vercel.app](https://scaler-future-fit-roan.vercel.app/)
+- **GitHub:** [Scaler-Future-Fit](https://github.com/vikrantshome/Scaler-Future-Fit)
+- Educational platform for skill development and career preparation.
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### 5. Shiksha Sathi
+- **Live:** [shiksha-sathi-taupe.vercel.app](https://shiksha-sathi-taupe.vercel.app/)
+- AI-based smart assignments and auto-grading system for efficient education management.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+## 🛠️ Technologies Used
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+- React 18
+- CSS3 (Modern Flexbox & Grid)
+- HTML5
+- Responsive Design
 
-### `npm run eject`
+## 📦 Installation
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+# Clone the repository
+git clone https://github.com/PatilAnuraag/PatilAnuraag.github.io.git
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+# Navigate to the project directory
+cd PatilAnuraag.github.io
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+# Install dependencies
+npm install
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+# Start the development server
+npm start
+```
 
-## Learn More
+## 🏗️ Build for Production
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+```bash
+npm run build
+```
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🚀 Deployment
 
-### Code Splitting
+The site is deployed to GitHub Pages. To deploy:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+```bash
+npm run deploy
+```
 
-### Analyzing the Bundle Size
+## 📱 Features
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+- ✨ Modern gradient design
+- 📱 Fully responsive layout
+- 🎨 Smooth animations
+- 🔗 Direct links to live demos and GitHub repositories
+- 📧 Contact section with social links
 
-### Making a Progressive Web App
+## 📄 License
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+This project is open source and available under the MIT License.
 
-### Advanced Configuration
+## 👤 Author
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+**Anuraag Patil**
+- GitHub: [@PatilAnuraag](https://github.com/PatilAnuraag)
+- Email: your.email@example.com
 
-### Deployment
+---
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+Built with ❤️ using React
